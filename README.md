@@ -1,7 +1,7 @@
 # 🔌BIENVENIDOS A MI PERFIL🔌
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Saludos internautas 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Saludos internautas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Mi nombre es Alberto,tengo 19 años y soy estudiante de 1º de DAW en CIPFP Cheste
+Mi nombre es Alberto,tengo 20 años y soy estudiante de 2º de DAW en CIPFP Cheste
 
 ---
 
